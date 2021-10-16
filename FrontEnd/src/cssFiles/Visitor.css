@@ -1,0 +1,54 @@
+
+  .container {
+    
+    position: fixed;
+    height: 450px;
+    width: 21%;
+    bottom: 15%;
+    right: 15%;
+    
+  
+  }
+  
+  
+   .nic {
+    text-align: center;
+    border: 1px solid rgb(14, 212, 170); 
+    width: 98%; 
+    height: 20px; 
+    border-radius: 5px;
+    margin-top: 200px;
+  }
+  
+    .telnumber {
+    text-align: center;
+    border: 1px solid rgb(14, 212, 170);
+    width: 98%; 
+    height: 20px; 
+    margin-top: 2px; 
+    border-radius: 5px
+   }
+  
+   .second .btn1 {
+    width: 100%;
+    cursor: pointer;
+    padding: 3%;
+    color:rgb(115, 150, 138);
+    margin-top: 40px;
+    border-radius: 5px; 
+    border: 1px solid rgb(14, 212, 170);
+  
+   }
+  
+  
+   .position .btn1 {
+     margin-top: 350px;
+   }
+   
+  
+  .homeForm1{
+    background-color: #9acd32;
+    height: 1000px;
+    width: 600px;
+  
+  }
